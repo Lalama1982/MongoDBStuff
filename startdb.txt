@@ -1,0 +1,6 @@
+CMD Prompt#1
+"G:\MongoDB\bin\mongod.exe" --dbpath G:\Edu\MongoDB_WorkSpace\data
+
+CMD Prompt#2
+cd G:\MongoDB\bin
+mongo.exe
